@@ -1,0 +1,15 @@
+{
+  "name": "uptime_monitor",
+  "version": "1.0.0",
+  "description": "monitor up/down status",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "nahid940",
+  "license": "ISC",
+  "dependencies": {
+    "node": "^17.0.1"
+  }
+}
